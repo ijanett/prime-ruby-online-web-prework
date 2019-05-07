@@ -1,5 +1,5 @@
 def prime?(numbers)
-  if numbers !% self
+  if numbers !% numbers.self
     puts "true"
   else
     "false"
